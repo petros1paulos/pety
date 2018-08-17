@@ -1,3 +1,0 @@
-# pety
-student
-petros paulos
