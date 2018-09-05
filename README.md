@@ -1,2 +1,0 @@
-# pety
-student
